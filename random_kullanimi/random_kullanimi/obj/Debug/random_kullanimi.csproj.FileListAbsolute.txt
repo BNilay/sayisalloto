@@ -1,0 +1,10 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\bin\Debug\random_kullanimi.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\bin\Debug\random_kullanimi.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\bin\Debug\random_kullanimi.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.Form1.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.Properties.Resources.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.csproj.GenerateResource.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\random_kullanimi\random_kullanimi\obj\Debug\random_kullanimi.pdb
